@@ -1,0 +1,31 @@
+Sr No	Question	Options	Answer
+1	NER aims to identify and classify named entities in text. True or False?	
+True , False, None , Both a and b	
+Answer:True	
+2	What are the two main tasks involved in NER?	
+Tokenization and POS tagging, Entity detection and entity classification, Text summarization and sentiment analysis, Part-of-speech tagging and dependency parsing	
+Answer:Entity detection and entity classification	
+3	Which type of machine learning model is often used for NER?	
+Decision tree, Linear regression, Hidden Markov Model (HMM) , K-Nearest Neighbors (KNN)	
+Answer:Hidden Markov Model (HMM)	
+4	What is a challenge in dealing with ambiguity in NER?	
+Lack of labeled data, Lack of labeled data, Context-dependence of entity meaning, 
+Answer:Overfitting of models	Context-dependence of entity meaning	
+5	Which common feature engineering technique is beneficial for NER?	
+Principal Component Analysis (PCA), N-grams , Word embedding vectors, All of the above	
+Answer:N-grams	
+6	How can you evaluate the performance of an NER model?	
+Accuracy, Precision, recall, and F1-score, Jaccard similarity, Cosine similarity	
+Answer:Precision, recall, and F1-score	
+7	What is a benefit of using pre-trained NER models?	
+No need for training data, Faster inference, Higher accuracy on all tasks, Easier to customize	
+Answer:Faster inference	
+8	What is a drawback of using pre-trained NER models?	
+Difficult to explain predictions, May not be well-suited for specific domains , Requires expensive hardware, No error handling mechanism	
+Answer:May not be well-suited for specific domains	
+9	What is the role of NER in applications like information retrieval and question answering?	
+Identifies sentiment and emotion, Extracts key factual information , Generates creative text formats, Classifies documents by topic	
+Answer:Extracts key factual information	
+10	To improve NER accuracy for noisy or low-quality text, consider preprocessing techniques like:	
+Stop word removal, Stemming/lemmatization, Entity linking and normalization, All of the above	
+Answer:All of the above	

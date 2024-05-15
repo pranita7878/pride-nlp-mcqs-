@@ -1,0 +1,29 @@
+Sr No	Question	Options	Answer
+1	Which of the following techniques is NOT commonly used for word embedding in NLP deep learning models?	
+TF-IDF (Term Frequency-Inverse Document Frequency), Word2Vec, GloVe (Global Vectors for Word Representation), N-grams	
+Answer:TF-IDF (Term Frequency-Inverse Document Frequency)	
+2	What term refers to the ability of a deep learning model to learn representations of unseen words based on its knowledge of previously encountered words?	
+Homonymy, Polysemy, Zero-shot learning, Out-of-vocabulary (OOV)	
+Answer:Zero-shot learning	
+3	What is the primary purpose of attention mechanisms in transformers, a popular deep learning architecture for NLP?	
+To speed up computation by focusing on relevant parts of the input text, To introduce noise into the training process to prevent overfitting, To improve word embedding by using contextual information, To automatically learn language rules without supervision	
+Answer:To speed up computation by focusing on relevant parts of the input text	
+4	In machine translation, which two deep learning architectures are commonly used: one for encoding the source language and another for decoding the target language?	
+LSTMs and CNNs, LSTMs and transformers, Transformers and autoencoders, Convolutional layers and attention mechanisms	
+Answer:LSTMs and transformers	
+5	What common regularization technique is used to prevent overfitting in deep learning NLP models, especially when dealing with limited training data?	
+Dropout, Data augmentation, Early stopping, All of the above	
+Answer:All of the above	
+6	Which metric is often used to evaluate the performance of text classification models, such as sentiment analysis or spam detection?	
+F1-score, Mean squared error (MSE), Root mean squared error (RMSE), Jaccard similarity	
+Answer:F1-score	
+7	What is the key difference between supervised and unsupervised learning in NLP?	
+Supervised learning uses labeled data, while unsupervised learning does not., Supervised learning models predict an output, while unsupervised models cluster data., Supervised learning models are more complex, while unsupervised models are simpler., All of the above.	
+Answer:All of the above.	
+8	What is the name of the Python library that is widely used for NLP tasks, offering pre-trained language models, tokenization, and other functionalities?	
+NLTK (Natural Language Toolkit), TensorFlow, PyTorch, scikit-learn	
+Answer:NLTK (Natural Language Toolkit)	
+9	What type of deep learning architecture is especially suited for modeling sequential data like text, considering long-term dependencies?	
+Convolutional Neural Networks (CNNs): Effective for image recognition., Recurrent Neural Networks (RNNs): Store information across sequences., Multilayer Perceptrons (MLPs): Feedforward networks for classification., Generative Adversarial Networks (GANs): Train two competing models.	
+Answer:Recurrent Neural Networks (RNNs): Store information across sequences.	
+10	In Transformer-based models, which attention mechanism focuses on relevant words within a sentence, aiding in sentiment analysis?	Self-attention: Relates each word to all others in the sentence., Masked attention: Prevents future information leakage in autoregressive tasks., Encoder-decoder attention: Links relevant encoded words to decoder outputs., Multi-head attention: Captures various aspects of word relationships.	Encoder-decoder attention: Links relevant encoded words to decoder outputs.	

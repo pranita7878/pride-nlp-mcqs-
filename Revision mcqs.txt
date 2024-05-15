@@ -1,0 +1,31 @@
+Sr No	Question	Options	Answer
+1	Which Python library is NOT primarily designed for Natural Language Processing tasks?	
+NumPy, pandas, spaCy, NLTK	
+Answer:NumPy	
+2	What is the primary purpose of tokenization in NLP?	
+To remove stop words from text., To break down text into meaningful units like words or sentences., To convert text to numerical representations., To identify named entities in text.	
+Answer:To break down text into meaningful units like words or sentences.	
+3	Which technique is used to represent words as numerical vectors in NLP?	
+Sentence segmentation, Stemming, Word embedding, Part-of-speech tagging	
+Answer:Word embedding	
+4	What is the difference between stemming and lemmatization?	
+Stemming reduces words to their root form, while lemmatization considers grammatical context., Lemmatization is more aggressive than stemming in reducing words to their root form., Stemming preserves more morphological information than lemmatization., There is no significant difference between the two techniques.	
+Answer:Stemming reduces words to their root form, while lemmatization considers grammatical context.	
+5	What is the role of N-grams in language modeling?	
+To identify sentiment in text., To predict the next word in a sequence based on previous words., To extract keywords from text., To perform topic modeling on text	
+Answer:To predict the next word in a sequence based on previous words.	
+6	What is the principle behind TF-IDF weighting in text analysis?	
+To assign higher weights to frequent words in a document., To assign higher weights to rare words in a document., To assign higher weights to words that appear in multiple documents., To assign higher weights to words with specific grammatical roles.	
+Answer:To assign higher weights to rare words in a document.	
+7	What type of deep learning architecture is commonly used for text classification tasks?	
+Recurrent Neural Networks (RNNs), Convolutional Neural Networks (CNNs), Support Vector Machines (SVMs), Decision Trees	
+Answer:Recurrent Neural Networks (RNNs)	
+8	What is the purpose of attention mechanisms in deep learning models for NLP?	
+To speed up computations by focusing on relevant parts of the input., To automatically extract features from text., To perform dimensionality reduction on textual data., To improve the interpretability of model predictions.	
+Answer:To speed up computations by focusing on relevant parts of the input.	
+9	What are the key challenges in dealing with imbalanced datasets in NLP tasks?	
+The model may overfit to the majority class and perform poorly on the minority class., The model may not be able to learn effective representations for the minority class., The model may require significantly more training data for the minority class., All of the above.	
+Answer:All of the above.	
+10	What is the primary purpose of tokenization in NLP?	
+Converting text into numerical representations, Splitting text into meaningful units like words or sentences, Removing stop words like articles and prepositions, Identifying parts of speech (POS) tags	
+Answer:Removing stop words like articles and prepositions	

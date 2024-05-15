@@ -1,0 +1,29 @@
+Sr No	Question	Options	Answer
+1	In NLP, what is the primary purpose of using stop words?	
+To identify and remove words with no grammatical function (e.g., articles, prepositions), To enhance text summarization by focusing on significant content words, To improve sentiment analysis by eliminating subjective vocabulary, All of the above	
+Answer:All of the above	
+2	Which Python library is commonly used for stop word removal?	
+NumPy, pandas, NLTK, Scikit-learn	
+Answer:NLTK	
+3	To remove stop words from a string in Python using NLTK, what steps are involved?	
+Import the nltk.corpus module and download the stop words list., Tokenize the string, apply the stopwords filter to each token, and join the remaining tokens., Use the nltk.download() function to download the stop words list directly., Both (a) and (b) are essential.	
+Answer:Both (a) and (b) are essential.	
+4	How can you customize the stop words list in NLTK?	
+By modifying the pre-defined list in the nltk.corpus module., By creating a custom list and providing it to the stopwords.words() function., By using techniques like stemming or lemmatization to reduce words to their base forms., None of the above.	
+Answer:By creating a custom list and providing it to the stopwords.words() function.	
+5	What are the potential drawbacks of removing all stop words in NLP tasks?	
+Loss of important domain-specific terms or sentiment-bearing words., Reduced accuracy in topic modeling or text classification., Increased processing time due to additional string manipulation., All of the above.	
+Answer:All of the above.	
+6	In what NLP tasks might it be beneficial to keep some stop words?	
+Sentiment analysis of social media text containing informal language and abbreviations., Topic modeling of technical documents where domain-specific vocabulary is crucial., Machine translation to preserve nuances and stylistic elements., All of the above.	
+Answer:All of the above.	
+7	What Python libraries offer more granular control over stop words compared to NLTK?	
+spaCy, gensim, PyTorch-NLP, All of the above	
+Answer:All of the above	
+8	How does spaCy's stop word handling differ from NLTK's approach?	
+spaCy provides context-sensitive stop word removal based on language models., spaCy's stop words list offers more flexibility for customization., spaCy automatically removes punctuation and special characters before stop word removal., All of the above.	
+Answer:spaCy provides context-sensitive stop word removal based on language models.	
+9	When working with languages other than English, what factors should be considered regarding stop words?	Availability of pre-defined stop words lists and their suitability for the target language., Potential cultural or domain-specific nuances that might be lost by removal., None , Both (a) and (c).	Both (a) and (c).	
+10	What best practices can you follow to make informed decisions about using stop words in NLP tasks?	
+Experiment with different stop words lists and removal strategies to evaluate their impact., Consider the task-specific goals, target audience, and domain-specific terminology., Analyze the impact of stop word removal on performance metrics like accuracy, precision, and recall., All of the above.	
+Answer:All of the above.	

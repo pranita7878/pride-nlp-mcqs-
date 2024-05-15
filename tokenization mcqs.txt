@@ -1,0 +1,30 @@
+Sr No	Question	Options	Answer
+1	Which of the following techniques is NOT typically used for tokenization in NLP?	
+Sentence splitting, Word splitting, Punctuation removal, POS tagging	
+Answer:POS tagging	
+2	The word_tokenize() function in NLTK segments text into:	
+phonemes, sentences, characters, words	
+Answer:words	
+3	To create custom tokenizers in NLTK, you can leverage:	
+regular expressions, string methods, both (a) and (b), neither (a) nor (b)	
+Answer:both (a) and (b)	
+4	When working with non-Western languages, which library is better suited for tokenization compared to NLTK?	
+spaCy, NLTK, TextBlob, Gensim	
+Answer:spaCy	
+5	Tokenization in Transformer-based models like BERT often involves:	
+character-level splitting, word-level splitting, subword-level splitting, all of the above	
+Answer:subword-level splitting	
+6	For better performance with Transformer models, tokenization should aim to:	minimize the number of tokens, maximize the number of tokens, balance token count and meaning preservation, none	
+Answer:balance token count and meaning preservation	
+7	Which pre-trained tokenizer from the transformers library can be used for sentence-level tokenization?	
+AutoTokenizer, AutoModelTokenizer, AutoFeatureExtractor, AutoModelForSequenceClassification	
+Answer:AutoModelTokenizer	
+8	The pad_to_max_length() function in the transformers library is used to:	
+remove stop words, pad shorter sequences with zeros, convert text to numerical representation, perform stemming or lemmatization	
+Answer:pad shorter sequences with zeros	
+9	If you encounter issues with non-breaking spaces during tokenization, you can replace them with:	
+tabs, newlines, regular expressions, whitespace characters	
+Answer:whitespace characters	
+10	What are some potential drawbacks of using a pre-trained tokenizer compared to a custom tokenizer?	
+May not be optimized for your specific task, Can be less flexible in terms of tokenization rules, Both (a) and (b), Neither (a) nor (b)	
+Answer:Both (a) and (b)

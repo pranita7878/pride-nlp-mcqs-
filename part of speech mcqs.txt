@@ -1,0 +1,31 @@
+Sr No	Question	Options	Answer
+1	What is the primary purpose of POS tagging in NLP?	
+To detect named entities in text., To assign grammatical labels (nouns, verbs, etc.) to each word., To perform sentiment analysis of text., To translate text from one language to another.	
+Answer:To assign grammatical labels (nouns, verbs, etc.) to each word.	
+2	Which Python library is considered the standard toolkit for NLP tasks, including POS tagging?	
+TensorFlow, OpenCV, Matplotlib, NLTK (Natural Language Toolkit)	
+Answer:NLTK (Natural Language Toolkit)	
+3	In the sentence "The quick brown fox jumps over the lazy dog," how many unique POS tags would you expect to find using NLTK's default tagger?	
+2, 3, 4, 5	
+Answer:4	
+4	Which of the following factors can influence the performance of POS tagging models?	
+Only the size of the training dataset., Only the chosen algorithm for tagging., Both the quality and size of the training dataset, as well as the chosen algorithm., None of the above.	
+Answer:Both the quality and size of the training dataset, as well as the chosen algorithm.	
+5	True or False: NLTK offers pre-trained models for POS tagging in multiple languages.	
+False, True, Both a anb b , None	
+Answer:True	
+6	Which Python library, alongside NLTK, is known for its advanced POS tagging capabilities with neural network models?	
+spaCy, Flair, scikit-learn, pandas	
+Answer:Flair	
+7	What is the key difference between rule-based and neural network-based approaches to POS tagging?	
+Only rule-based approaches can handle unknown words., Only neural network-based approaches can account for context., Rule-based approaches rely on predefined rules, while neural networks learn automatically from data., None of the above.	
+Answer:Rule-based approaches rely on predefined rules, while neural networks learn automatically from data.	
+8	What are some potential applications of POS tagging in NLP?	
+Machine translation only., Machine translation, sentiment analysis, information retrieval, question answering, and more., Text summarization only., Text classification only.	
+Answer:Machine translation, sentiment analysis, information retrieval, question answering, and more.	
+9	How can you evaluate the performance of a POS tagging model?	
+By visually inspecting its output on a few sentences., By using metrics like accuracy, precision, recall, and F1-score on a held-out test set., By comparing it to another model without any quantitative benchmarks., None of the above.	
+Answer:By using metrics like accuracy, precision, recall, and F1-score on a held-out test set.	
+10	What are the main types of POS tagsets used in Python libraries?	
+Universal Tagset, Penn Treebank II, Claws Tagset (English-specific), Brown Tagset (universal), WordNet tagset (semantic relationships), All of the above	
+Answer:All of the above	

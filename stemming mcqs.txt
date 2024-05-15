@@ -1,0 +1,30 @@
+Sr No	Question	Options	Answer
+1	Stemming aims to:	
+Reduce words to their morphological root , Increase word vocabulary in text, Improve sentence grammar, None	
+Answer:Reduce words to their morphological root	
+2	Stemming typically preserves:	
+Inflectional morphemes, Word meaning core, Part-of-speech information, None	
+Answer:Word meaning core	
+3	The Porter Stemmer reduces "playing" to:	
+playes, play, ply, None	
+Answer:ply	
+4	Stemming is useful for:	
+Spelling correction, Information retrieval , Sentiment analysis, None	
+Answer:Information retrieval	
+5	Which NLTK module contains stemming algorithms?	
+nltk.stem, nltk.tokenize, nltk.corpus, None	nltk.stem	
+6	To stem a word using Porter Stemmer in NLTK:	
+porter.stem("running"), PorterStemmer.stem("running"), stem.porter("running"), None	
+Answer:PorterStemmer.stem("running")	
+7	To create a custom stemmer with NLTK's SnowballStemmer:	
+SnowballStemmer("english"), stem.snowball("english"), nltk.snowball("english"), None	
+Answer:SnowballStemmer("english")	
+8	Stemming can improve performance in:	
+N-gram language models, Topic modeling, Word-sense disambiguation, None	
+Answer:Topic modeling	
+9	Stemming should be combined with:	
+Lemmatization for better accuracy , Stop word removal only, Neither, as it's sufficient on its own, None	
+Answer:Lemmatization for better accuracy	
+10	Stemming aims to reduce words to their:	
+Roots , Prefixes, Suffixes, Synonyms	
+Answer:Roots

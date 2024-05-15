@@ -1,0 +1,62 @@
+MCQs:
+
+Which Python library is primarily used for chunking text in NLP?
+
+(a) NLTK
+(b) Spacy
+(c) scikit-learn
+(d) pandas Answer: (a) NLTK
+What does the chunk_sents function in NLTK do?
+
+(a) Splits text into sentences
+(b) Identifies noun phrases within sentences
+(c) Applies grammatical tags to words
+(d) Performs named entity recognition Answer: (b) Identifies noun phrases within sentences
+The output of chunking is represented as:
+
+(a) A list of words
+(b) A list of noun phrases
+(c) A list of tagged words
+(d) A tree structure Answer: (d) A tree structure
+To create custom chunk patterns using regular expressions, you can use the:
+
+(a) RegexpParser class
+(b) Chunker class
+(c) TreebankTagger class
+(d) NLTKParser class Answer: (a) RegexpParser class
+The tree.collapse() function in NLTK:
+
+(a) Combines overlapping chunks
+(b) Removes empty chunks
+(c) Converts chunk trees to flat lists
+(d) Applies grammatical labels to nodes Answer: (c) Converts chunk trees to flat lists
+When using a named entity tagger for chunking, which tag indicates a person's name?
+
+(a) B-PER
+(b) I-PER
+(c) B-ORG
+(d) I-LOC Answer: (a) B-PER
+To evaluate the performance of a chunking model, you can use metrics like:
+
+(a) Accuracy
+(b) Precision
+(c) Recall
+(d) All of the above Answer: (d) All of the above
+A common challenge in chunking is handling:
+
+(a) Ambiguity in word meanings
+(b) Incomplete sentences
+(c) Non-standard grammar
+(d) All of the above Answer: (d) All of the above
+To improve the accuracy of chunking, you can:
+
+(a) Use larger training datasets
+(b) Employ domain-specific language models
+(c) Fine-tune chunking parameters
+(d) All of the above Answer: (d) All of the above
+Which of the following libraries can be used for visualization of chunk trees?
+
+(a) Matplotlib
+(b) NLTKDraw
+(c) Seaborn
+(d) Both (a) and (b) Answer: (d) Both (a) and (b)
